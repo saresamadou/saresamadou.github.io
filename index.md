@@ -7,6 +7,7 @@
 | Java   | cell |
 | Spring | cell |
 | JUnit  | cell |
+| Mutating testing  | [History](https://testing.googleblog.com/2021/04/mutation-testing.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+blogspot%2FHbbgQ+%28Google+Testing+Blog%29) |
 
 - Frontend
 
@@ -57,6 +58,13 @@
 | GCP |  |
 | AWS |  |
 | Heroku |  |
+
+- Architecture
+
+| Name | Details |
+| ------ | ------ |
+| DDD |  |
+| TDD |  [Ecoles](https://blog.octo.com/un-test-peut-en-cacher-un-autre-un-peu-de-theorie/)|
 
 Veille technologiques
 - [journalduhacker](https://www.journalduhacker.net/)
