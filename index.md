@@ -1,4 +1,7 @@
-**Welcome to my memo**
+*Hi there, welcome to my blogg. I am Samadou and I am a passionated software crafmanship developper.
+I hope you like stories. 
+I propose you to learn software development concepts by reading a short story.*
+
 
 - Backend
 
