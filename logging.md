@@ -2,9 +2,9 @@
 
        APP (triggering logger) -> LOGGER(Filter) ->(send LogRecord) HANDLER (Filter, Formatter) -> Appender (External system, LogManager)
   
-  ## What is the story ?
+## What is the story ?
   
-  ## Details
+## Details
   
   - Default Handler is ConsoleHandler with INFO level
   - Log Formatters: change the structure of the log message
