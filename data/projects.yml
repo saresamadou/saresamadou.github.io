@@ -1,0 +1,6 @@
+name: Projects
+source:
+  - icon: fa fa-gitlab
+    name: Mes courses
+    description: Application that help me make my shopping
+    url: https://gitlab.com/mes-courses

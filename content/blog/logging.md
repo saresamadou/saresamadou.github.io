@@ -1,3 +1,20 @@
++++
+author = "SARE Samadou"
+title = "Logging"
+date = "2021-04-17"
+description = "About Logging in java."
+tags = [
+"Java",
+"Logging"
+]
+categories = [
+"themes",
+"syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
++++
+
 ## Schema
 
    - APP (triggering logger) -> LOGGER(Filter) ->(send LogRecord) HANDLER (Filter, Formatter) -> Appender (External system, LogManager)

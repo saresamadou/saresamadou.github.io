@@ -1,6 +1,19 @@
-*Hi there, welcome to my blogg. I am Samadou and I am a passionated software crafmanship developper.
-I hope you like stories. 
-I propose you to learn software development concepts by reading a short story.*
++++
+author = "SARE Samadou"
+title = "Others"
+date = "2021-04-16"
+description = "Others memo"
+tags = [
+"Others",
+"Java"
+]
+categories = [
+"themes",
+"syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
++++
 
 
 - Backend
@@ -20,7 +33,7 @@ I propose you to learn software development concepts by reading a short story.*
 | Typescript | cell |
 | Jasmine | cell |
 | Jest | cell |
- 
+
 
 - Versionning
 
