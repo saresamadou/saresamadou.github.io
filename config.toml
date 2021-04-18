@@ -22,7 +22,10 @@ pygmentsCodefencesGuessSyntax = true
 title = "Hi there, I'm Samadou"
 author = "Samadou SARE"
 copyright = "2020-2021"
-description = "A passionated software crafmanship developper.I hope you like stories.I propose you to learn software development concepts by reading a short story."
+description = """
+A passionated software crafmanship developper.
+I hope you like stories.I propose you to learn software development concepts by reading a short story."
+"""
 profilePicture = "images/profile.jpeg"
 keywords = ""
 favicon = "favicons/"
@@ -43,7 +46,7 @@ doNotLoadAnimations = false
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
-# readMore = true
+readMore = true
 # postSectionName = "blog"
 fullPostContent = false
 
@@ -77,21 +80,35 @@ url = "aboudou.samadou.sare@gmail.com"
 
 [menu]
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Home"
 identifier = "home"
 weight = 100
 url = "/"
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "Posts"
 weight = 200
 identifier = "posts"
 url = "/post/"
 
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "About"
 weight = 300
 identifier = "about"
 url = "/about/"
+
+[Languages]
+[Languages.en]
+title = "My blog"
+weight = 1
+LanguageName = "English"
+description = "Website of Samadou SARE"
+
+
+[Languages.fr]
+title = "Mon blog"
+description = "Siteweb de Samadou SARE"
+weight = 2
+LanguageName = "Français"
 
