@@ -86,6 +86,7 @@ Veille technologiques
 
     - architecture
         - [duckconf](https://www.laduckconf.com/)
+        - [DDD Europe](https://dddeurope.com/)
 
     - Devops
         - [francedevops](https://www.francedevops.fr/)
