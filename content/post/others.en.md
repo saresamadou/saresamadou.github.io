@@ -75,8 +75,12 @@ Veille technologiques
 - [journalduhacker](https://www.journalduhacker.net/)
 - [octo](https://blog.octo.com/)
 - [ippon](https://blog.ippon.fr/)
+- [Artisan developpeur](https://artisandeveloppeur.fr/)
+- [CodeFx](https://slides.nipafx.dev/)
 
 - Conférences:
+    - [Devseccon](https://www.devseccon.com/)
+    
     - Frontend
         - [javascript conference](https://javascript-conference.com/london/)
 
