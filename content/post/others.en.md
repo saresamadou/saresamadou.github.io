@@ -77,7 +77,7 @@ Veille technologiques
 - [ippon](https://blog.ippon.fr/)
 - [Artisan developpeur](https://artisandeveloppeur.fr/)
 - [CodeFx](https://slides.nipafx.dev/)
-- [PunkinDev](https://podcast.ausha.co)
+- [PunkinDev](https://podcast.ausha.co/punkindev)
 
 - Conférences:
     - [Devseccon](https://www.devseccon.com/)
