@@ -4,6 +4,7 @@ date: 2021-04-18T04:54:48+02:00
 draft: false
 ---
 
+- [Functional programming concepts](https://github.com/hemanth/functional-programming-jargon)
 
 - Backend
 
@@ -78,6 +79,7 @@ Veille technologiques
 - [Artisan developpeur](https://artisandeveloppeur.fr/)
 - [CodeFx](https://slides.nipafx.dev/)
 - [PunkinDev](https://podcast.ausha.co/punkindev)
+- [InfoQ](https://www.infoq.com/fr/development/)
 
 - Conférences:
     - [Devseccon](https://www.devseccon.com/)
@@ -88,6 +90,7 @@ Veille technologiques
     - architecture
         - [duckconf](https://www.laduckconf.com/)
         - [DDD Europe](https://dddeurope.com/)
+        - [InfoQ](https://plus.qconferences.com/)
 
     - Devops
         - [francedevops](https://www.francedevops.fr/)
