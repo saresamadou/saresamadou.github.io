@@ -80,6 +80,7 @@ Veille technologiques
 - [CodeFx](https://slides.nipafx.dev/)
 - [PunkinDev](https://podcast.ausha.co/punkindev)
 - [InfoQ](https://www.infoq.com/fr/development/)
+- [Google Testing blog](https://testing.googleblog.com/)
 
 - Conférences:
     - [Devseccon](https://www.devseccon.com/)
