@@ -96,4 +96,4 @@ Veille technologiques
     - Devops
         - [francedevops](https://www.francedevops.fr/)
         - [radio-devops](https://lydra.fr/radio-devops/)
-        - [dddeurope](https://dddeurope.com/)
+        - [Paris container day](https://paris-container-day.fr/fr/)
