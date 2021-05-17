@@ -81,6 +81,7 @@ Veille technologiques
 - [PunkinDev](https://podcast.ausha.co/punkindev)
 - [InfoQ](https://www.infoq.com/fr/development/)
 - [Google Testing blog](https://testing.googleblog.com/)
+- [Rieckpil](https://rieckpil.de)
 
 - Conférences:
     - [Devseccon](https://www.devseccon.com/)
