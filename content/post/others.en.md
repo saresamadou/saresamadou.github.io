@@ -11,8 +11,11 @@ draft: false
 | Name | Details |
 | ------ | ------ |
 | Java   | cell |
-| Spring | cell |
+| Selenide   | cell |
+| Spring cloud contract   | cell |
+| Spring boot | cell |
 | JUnit  | cell |
+| AssertJ  | cell |
 | Mutating testing  | [History](https://testing.googleblog.com/2021/04/mutation-testing.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+blogspot%2FHbbgQ+%28Google+Testing+Blog%29) |
 
 - Frontend
@@ -71,6 +74,8 @@ draft: false
 | ------ | ------ |
 | DDD |  |
 | TDD |  [Ecoles](https://blog.octo.com/un-test-peut-en-cacher-un-autre-un-peu-de-theorie/)|
+| BDD |  |
+
 
 Veille technologiques
 - [journalduhacker](https://www.journalduhacker.net/)
@@ -82,6 +87,7 @@ Veille technologiques
 - [InfoQ](https://www.infoq.com/fr/development/)
 - [Google Testing blog](https://testing.googleblog.com/)
 - [Rieckpil](https://rieckpil.de)
+- [Testing](https://www.arhohuttunen.com/)
 
 - Conférences:
     - [Devseccon](https://www.devseccon.com/)
