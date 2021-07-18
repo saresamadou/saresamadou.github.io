@@ -15,6 +15,9 @@ draft: false
 | Spring cloud contract   | cell |
 | Spring boot | cell |
 | JUnit  | cell |
+| Postman  | cell |
+| WireMock  | cell |
+| MockLab  | cell |
 | AssertJ  | cell |
 | Mutating testing  | [History](https://testing.googleblog.com/2021/04/mutation-testing.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+blogspot%2FHbbgQ+%28Google+Testing+Blog%29) |
 
