@@ -100,14 +100,14 @@ url = "/about/"
 
 [Languages]
 [Languages.en]
-title = "My blog"
+title = "HokageDev"
 weight = 1
 LanguageName = "English"
 description = "Website of Samadou SARE"
 
 
 [Languages.fr]
-title = "Mon blog"
+title = "HokageDev"
 description = "Siteweb de Samadou SARE"
 weight = 2
 LanguageName = "Français"
