@@ -29,6 +29,7 @@ draft: false
 | Typescript | cell |
 | Jasmine | cell |
 | Jest | cell |
+| Ecmascript | cell |
 
 
 - Versionning
