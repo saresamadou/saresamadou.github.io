@@ -1,4 +1,16 @@
++++
+author = "Samadou"
+title = "Angular Testing"
+date = "2022-09-10"
+description = "Tdd with angular"
+tags = [
+    "testing",
+]
++++
+
+
 ## Testing component
+
 
 ```typescript
 
