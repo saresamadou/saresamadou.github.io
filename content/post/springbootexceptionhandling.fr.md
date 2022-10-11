@@ -26,9 +26,9 @@ try {
 ```java
 @RestController
 public class CustomErrorController implements ErrorController {
-@RequestMapping(“/error”)
+@RequestMapping("/error")
 public String handle() {
-return “Oops, can’t process that!”;
+return "Oops, can’t process that!";
 }
 }
 
